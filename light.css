@@ -1,0 +1,8 @@
+:root {
+  --bg: hsl(0, 0%, 100%);
+  --primary-text: hsl(235, 100%, 50%);
+  --accent-text: hsl(29, 98%, 26%);
+  --button-text: hsl(0, 0%, 0%);
+  --button-bg: hsl(0, 3%, 72%);
+  --button-hovershade: hsl(0, 3%, 62%);
+}
