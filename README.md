@@ -1,10 +1,10 @@
 # Lighthouse report
 
-Generated 2026-11-13 08:00 UTC from commit `8183b7d`.
+Generated 2026-11-17 14:52 UTC from commit `7ff3a35`.
 
 | Page | Performance | Accessibility | Best practices | SEO |
 |---|---|---|---|---|
-| /index.html | 🟢 100 | 🟢 94 | 🟢 96 | 🟢 90 |
+| /index.html | 🟢 100 | 🟢 95 | 🟢 96 | 🟢 90 |
 
 🟢 90–100 good · 🟠 50–89 needs improvement · 🔴 0–49 poor
 
