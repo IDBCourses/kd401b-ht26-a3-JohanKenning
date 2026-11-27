@@ -5,4 +5,14 @@
   --button-text: hsl(0, 0%, 95%);
   --button-bg: hsl(0, 0%, 22%);
   --button-hovershade: hsl(0, 0%, 30%);
+
+  --font-body: "mulish", Georgia, sans-serif;
+  --font-heading: "Arima Madurai", "Arima", sans-serif;
+  --size-body: 1rem;
+  --size-h1: 3rem;
+  --size-h2: 2.5rem;
+  --size-h3: 2rem;
+  --size-h4: 1.75rem;
+  --leading-body: 1.5;
+  --measure: 65ch;
 }

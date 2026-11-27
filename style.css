@@ -1,16 +1,53 @@
+:root {
+  --bg: hsl(0, 0%, 100%);
+  --primary-text: hsl(235, 100%, 50%);
+  --accent-text: hsl(29, 98%, 26%);
+  --button-text: hsl(0, 0%, 0%);
+  --button-bg: hsl(0, 3%, 72%);
+  --button-hovershade: hsl(0, 3%, 62%);
+
+  --font-body: "mulish", Georgia, sans-serif;
+  --font-heading: "Arima Madurai", "Arima", sans-serif;
+  --size-body: 1rem;
+  --size-h1: 3rem;
+  --size-h2: 2.5rem;
+  --size-h3: 2rem;
+  --size-h4: 1.75rem;
+  --leading-body: 1.5;
+  --measure: 65ch;
+}
+
 body {
   background-color: var(--bg);
+  font-family: var(--font-body);
+  font-size: var(--size-body);
+  line-height: var(--leading-body);
 }
-h1,
-h2,
-h3,
+h1 {
+  color: var(--primary-text);
+  font-family: var(--font-heading);
+  font-size: var(--size-h1);
+}
+h2 {
+  color: var(--primary-text);
+  font-family: var(--font-heading);
+  font-size: var(--size-h2);
+}
+h3 {
+  color: var(--primary-text);
+  font-family: var(--font-heading);
+  font-size: var(--size-h3);
+}
 h4 {
   color: var(--primary-text);
+  font-family: var(--font-heading);
+  font-size: var(--size-h4);
 }
 p,
 a,
 li {
   color: var(--accent-text);
+  max-width: var(--measure);
 }
 button {
   color: var(--button-text);

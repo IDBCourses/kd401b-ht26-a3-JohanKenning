@@ -1,0 +1,11 @@
+:root {
+  --font-body: "Atkinson Hyperlegible", Georgia, sans-serif;
+  --font-heading: "Atkinson Hyperlegible", sans-serif;
+  --size-body: 1.25rem;
+  --size-h1: 3.5rem;
+  --size-h2: 2.75rem;
+  --size-h3: 1.625rem;
+  --size-h4: 1.25rem;
+  --leading-body: 1.5;
+  --measure: 65ch;
+}
