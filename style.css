@@ -1,6 +1,6 @@
 :root {
   --bg: hsl(0, 0%, 100%);
-  --primary-text: hsl(235, 100%, 27%);
+  --primary-text: hsl(235, 100%, 21%);
   --accent-text: hsl(29, 98%, 26%);
   --button-text: hsl(0, 0%, 0%);
   --button-bg: hsl(0, 3%, 72%);
